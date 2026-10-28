@@ -1,0 +1,39 @@
+keys,en
+Abandon,Abandon
+Accept,Accept
+Journal,Journal
+No quest available right now.,No quest available right now.
+No quest done yet.,No quest done yet.
+No quest in progress.,No quest in progress.
+Q / E · LB / RB,Q / E · LB / RB
+Ready!,Ready!
+Rewards:,Rewards:
+Too many tracked quests.,Too many tracked quests.
+Track,Track
+Turn in,Turn in
+optional,optional
+That did not work.,That did not work.
+Unknown quest.,Unknown quest.
+This quest is not available yet.,This quest is not available yet.
+That is not possible for this quest now.,That is not possible for this quest now.
+Some objectives are not done yet.,Some objectives are not done yet.
+Not enough room in your bag for the reward.,Not enough room in your bag for the reward.
+You no longer have the items this quest needs.,You no longer have the items this quest needs.
+Locked,Locked
+Available,Available
+In progress,In progress
+Ready to turn in,Ready to turn in
+Completed,Completed
+Failed,Failed
+Choose one:,Choose one:
+path,path
+Time left: %s,Time left: %s
+Time limit: %s,Time limit: %s
+Again in %s,Again in %s
+Daily,Daily
+Repeatable,Repeatable
+%d XP,%d XP
+%+d reputation: %s,%+d reputation: %s
+%d h %02d,%d h %02d
+Choose a reward first.,Choose a reward first.
+Come back later for this quest.,Come back later for this quest.
